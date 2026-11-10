@@ -202,4 +202,4 @@ This repository serves as the official landing page for Adaware Ad Block. The so
 **Get the most recent version of Adaware Ad Block today!**
 
 ---
-**Last updated:** 2026-11-09 18:19:09 UTC
+**Last updated:** 2026-11-10 01:52:55 UTC
